@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olek93
-- 👀 I’m interested in Python, Godot and a bit intrigued by annoying JavaScript
-- 🌱 I’m currently learning best coding practices and design patterns in Python
-- 💞️ I’m looking to collaborate on appium test automation project, Django REST Framework project or a basic React project
+- 👀 I’m interested in Python, Godot and a bit in JavaScript
+- 🌱 Senior QA Automation Engineer
+- 💞️ Searching for new challenges
 - 📫 How to reach me: aleksanderczeszyk@gmail.com, +48 725273581
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olek93
-- 👀 I’m interested in Python, Godot and a bit in JavaScript
-- 🌱 Senior QA Automation Engineer
+- 👀 I’m interested in Flutter and Dart, Python, and Godot Engine
+- 🌱 Automated Test Developer transitioning to full stack Flutter + Django Rest Framework developer
 - 💞️ Searching for new challenges
 - 📫 How to reach me: aleksanderczeszyk@gmail.com, +48 725273581
 
